@@ -1,0 +1,1 @@
+we will explore the data of a business’s customers and use clustering algorithms like k-means and hierarchical clustering to find hidden patterns and similarities among the customers. This will help businesses make data-driven decisions to improve customer experience, increase customer loyalty, and drive sales growth.

@@ -1,0 +1,1 @@
+we will be building a model to automatically categorize documents into predefined classes. Using cutting-edge machine learning algorithms such as Naive Bayes, Decision Trees, and Random Forest, we will create a robust model that can accurately classify different types of documents.

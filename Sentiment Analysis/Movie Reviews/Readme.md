@@ -1,0 +1,1 @@
+we will build a model using Natural Language Processing (NLP) techniques to analyze the sentiment of movie reviews. We will dive deep into the world of algorithms like Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) to train the model and predict whether a review is positive or negative.

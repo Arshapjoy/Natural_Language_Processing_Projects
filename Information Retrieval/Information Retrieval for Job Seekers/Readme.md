@@ -1,0 +1,1 @@
+we will use a collection of job postings from various sources to build a search engine that can help job seekers find relevant job postings based on their skills and experience. By utilizing information retrieval techniques, we can develop a system that accurately matches job postings with job seekers’ preferences and qualifications.

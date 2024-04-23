@@ -1,0 +1,1 @@
+we will use the WebNLG dataset to build a model that can generate natural language text based on structured data. By utilizing advanced natural language processing techniques, we can generate coherent and fluent text that can be used for various applications such as chatbots, automated content creation, and more.
